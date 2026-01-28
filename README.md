@@ -4,6 +4,7 @@ A local, privacy-first AI backend running on **Mistral 7B**, **FastAPI**, and **
 Designed for sovereign data processing within European jurisdiction (GDPR compliant architecture).
 
 **Author:** Denis Naumov
+📍 Cologne, Germany 🇩🇪
 
 ---
 
