@@ -1,0 +1,16 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Mac system files
+.DS_Store
+
+# Environment variables (Secrets)
+.env
+
+# Databases and Models (Heavy files)
+*.db
+*.sqlite
+ollama_models/
